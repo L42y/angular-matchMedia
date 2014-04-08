@@ -1,0 +1,22 @@
+{
+  "name": "angular-matchMedia",
+  "main": "angular-matchMedia.js",
+  "version": "0.1.0",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "description": "window.matchMedia as an angular component",
+  "keywords": [
+    "angular",
+    "matchMedia"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/L42y/angular-matchMedia",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
